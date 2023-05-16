@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Highlights:
 
-1. I collaborated with w/decoles on the Summary Page. Our tasks were divided: David focused on creating tables, while I worked on designing and developing charts. I conceptualized the overall design and implemented a toggle feature, allowing users to switch between viewing the charts and tables. Additionally, I incorporated various design changes to the tables based on feedback from our code reviewers.
+1. I collaborated with David Decoles on the Summary Page. Our tasks were divided: David focused on creating tables, while I worked on designing and developing charts. I conceptualized the overall design and implemented a toggle feature, allowing users to switch between viewing the charts and tables. Additionally, I incorporated various design changes to the tables based on feedback from our code reviewers.
 
 https://github.com/ChicoState/PantryNode/pull/142
 
